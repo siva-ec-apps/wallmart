@@ -1,1 +1,2 @@
-this file cintains string releated data
+i am updating this file
+thisfile cintains string releated data
